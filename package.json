@@ -12,8 +12,11 @@
     "querystring": "~0.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-player": "^1.12.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1",
+    "react-sound": "^1.2.0",
+    "react-soundplayer": "^1.0.4",
     "react-spotify-api": "^2.4.0",
     "request": "~2.83.0",
     "spotify-web-api-node": "^4.0.0"

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import hash from "../config/hash";
-import "./App.css";
+import "./App.scss";
 import {HashRouter,Route,Switch} from "react-router-dom";
 import Player from '../Player/Player'
 import logo from "../images/logo.svg";
