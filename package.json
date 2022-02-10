@@ -8,7 +8,7 @@
     "express": "~4.16.0",
     "hash": "^0.2.1",
     "jquery": "^3.4.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "querystring": "~0.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
